@@ -37,7 +37,7 @@ ollama --version
 ### Step 2: Clone this Repository
 
 ```bash
-git clone
+git clone git@github.com:anirudh83/llm-blog-series.git
 cd blog1
 ```
 
