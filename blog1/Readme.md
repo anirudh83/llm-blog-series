@@ -59,7 +59,7 @@ pip install -r requirements.txt
 ```
 
 
-### Step 4: Download a Model
+### Step 4: Download a Model (note: the code is hardcoded to use llama3.2:1b)
 
 ```bash
 # Recommended: Llama 3.2 (3.9GB)
