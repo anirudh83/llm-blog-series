@@ -369,4 +369,3 @@ The AI revolution is here, and with Hugging Face Transformers, you're equipped t
 
 ---
 
-*Want to dive deeper? Check out our complete code examples in the [GitHub repository](https://github.com/your-repo) and experiment with different models and tasks. The future of AI is in your hands!*
