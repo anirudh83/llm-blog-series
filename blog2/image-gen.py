@@ -3,18 +3,6 @@ import requests
 from PIL import Image
 import os
 
-#generator
-# print("Lets generate...")
-# generator = pipeline("text-generation")
-# result = generator("In this course, we will teach you how to")
-# print(result)
-
-
-# print("Now lets translate..")
-# translator = pipeline("translation", model="Helsinki-NLP/opus-mt-fr-en")
-# translation_result = translator("Ce cours est produit par Hugging Face.")
-# print(translation_result)
-
 print("Lets generate image..")
 
 # Download the image to local file system
