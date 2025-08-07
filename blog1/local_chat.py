@@ -12,7 +12,7 @@ from typing import List, Dict, Optional
 class LocalLLM:
     """Main class for interacting with local LLM models via Ollama"""
     
-    def __init__(self, model_name: str = 'llama3.2:1b', system_prompt: Optional[str] = None):
+    def __init__(self, model_name: str = 'gpt-oss:20b', system_prompt: Optional[str] = None):
         """
         Initialize the Local LLM interface
         
@@ -208,7 +208,7 @@ def main():
     print("="*50)
     
     # Initialize with default model
-    llm = LocalLLM('llama3.2:1b')
+    llm = LocalLLM('gpt-oss:20b')
     
     while True:
         try:
