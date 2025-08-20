@@ -8,4 +8,4 @@ Simple AI agent that can do math, handle files, and remember conversations.
 
 ## Run It
 ```bash
-python agent.py
+python3 agent.py
